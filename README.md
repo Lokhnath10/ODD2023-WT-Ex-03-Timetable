@@ -60,6 +60,4 @@ Execute the program
 ### OUPUT
 ![Screenshot 2023-11-15 052502](https://github.com/Lokhnath10/ODD2023-WT-Ex-03-Timetable/assets/138969918/2287fb56-ff33-4229-9430-7b841229c7d5)
 
-###RESULT
-Program sucessfully executed.
 
